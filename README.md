@@ -1,1 +1,3 @@
-# game_sales
+# Video Game Sales
+
+## Background and Overview
