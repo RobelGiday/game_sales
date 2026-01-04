@@ -28,5 +28,5 @@ The raw dataset used in this analysis is available from [Maven Analytics](https:
 | release_date | Date the game was released on |
 | last_update | Date the data was last update |
 
- After cleaning dataset to filtered the unneccessary data there was only 17,505 records that were deemed useable for the analyses. Additional to optimised the dataset for analytical purposes I have applied Kimball Star Schema referred to Figure 1 to see the database structure. 
+After cleaning dataset there were only 17,505 records that were deemed useable for the analyses. Additional to optimised the dataset for analytical purposes I have applied Kimball Star Schema referred to Figure 1 to see the current database structure. 
 
