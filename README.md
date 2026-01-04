@@ -16,3 +16,8 @@ The raw dataset used in this analysis is available from [Maven Analytics](https:
 |------------|--------------------------|
 | img | URL to link the image
 | title | Game title |
+| console | Console the game was released for |
+| genre | Genre of the game|
+| developer | Developer of the game | 
+| critic score | MetaCritic score (out of 10) |
+| total_sales | Global sales of copies in millions |
