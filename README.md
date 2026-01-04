@@ -13,4 +13,5 @@ This project aims to answer these questions.
 ### Dataset overview 
 The raw dataset used in this analysis is available from [Maven Analytics](https://mavenanalytics.io/data-playground/video-game-sales). It contains 64,016 records and fields consisting of:
 |Column Name | Description |
+|____________|_____________|
 | img |
