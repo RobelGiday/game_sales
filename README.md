@@ -21,3 +21,12 @@ The raw dataset used in this analysis is available from [Maven Analytics](https:
 | developer | Developer of the game | 
 | critic score | MetaCritic score (out of 10) |
 | total_sales | Global sales of copies in millions |
+| na_sales | North American sales of copies in millions |
+| jp_sales | Japanese sales of copies in millions |
+| pal_sales | European & African sales of copies in millions |
+| other_sales | Rest of world sales of copies in millions |
+| release_date | Date the game was released on |
+| last_update | Date the data was last update |
+
+ After cleaning dataset to filtered the unneccessary data there was only 17,505 records that were deemed useable for the analyses. Additional to optimised the dataset for analytical purposes I have applied Kimball Star Schema referred to Figure 1 to see the database structure. 
+
