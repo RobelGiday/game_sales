@@ -30,6 +30,9 @@ The raw dataset used in this analysis is available from [Maven Analytics](https:
 
 I have utilised Power BI to clean and transforming dataset, after cleaning the dataset there were only 17,505 records that were deemed useable for the analyses. Additional to optimised the dataset for analytical purposes I have applied Kimball Star Schema referred to Figure 1 to see the current database structure. 
 
+#### Figure 1: Model View
+![model_view](assets/images/database_structure.png)
+
 ### Access to resources
 - Dashboard can be download [here]
 - Raw global video games sales dataset is available [here]
