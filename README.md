@@ -28,7 +28,11 @@ The raw dataset used in this analysis is available from [Maven Analytics](https:
 | release_date | Date the game was released on |
 | last_update | Date the data was last update |
 
-After cleaning dataset there were only 17,505 records that were deemed useable for the analyses. Additional to optimised the dataset for analytical purposes I have applied Kimball Star Schema referred to Figure 1 to see the current database structure. 
+I have utilised Power BI to clean and transforming dataset, after cleaning the dataset there were only 17,505 records that were deemed useable for the analyses. Additional to optimised the dataset for analytical purposes I have applied Kimball Star Schema referred to Figure 1 to see the current database structure. 
+
+### Access to resources
+- Dashboard can be download [here]
+- Raw global video games sales dataset is available [here]
 
 ## Findings & Implications 
 ### Best-Selling Titles
@@ -53,3 +57,5 @@ After cleaning dataset there were only 17,505 records that were deemed useable f
 - Rest of World contributes moderately, with GTA V again leading (8.32M).
 - North American, Europe and Africa contibute the majority of sales while Japan consistently shows low sales for Western titles. Therefore werstern publishers may deprioritse marketing efforts toward Japan unless the genre aligns with Japanese preference of RPG, Nintendo titles.
 
+## Conlusion 
+This analysis highlights global video game sales trends over past 50 years. Established series like Grand Theft Auto and Call of Duty dominate worldwide sales, reflecting the industry’s reliance on proven IP. Sales peaked around 2010, then declined sharply as mobile gaming, digital distribution, and subscription models reshaped consumer behaviour. Genre performance varies strongly by console, with Sports thriving on PlayStation, Shooters on Xbox, and family‑friendly titles on the Wii. Regionally, North America and Europe/Africa drive most sales, while Japan shows consistently lower demand for Western titles, reinforcing the need for region‑specific marketing and genre alignment
