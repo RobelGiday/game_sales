@@ -38,18 +38,18 @@ After cleaning dataset there were only 17,505 records that were deemed useable f
 
 ### Sales Over Time
 - Sharp rise from 1990 (6M) to 2010 (538M), peaking in 2010.
-- Steep decline post-2010, dropping to just 3M by 2020.
+- Steep decline post-2010, dropping to just 3M by 2020. This aligns with the rise of mobile gaming, free to play games with in game purchases, digital downloads and subscription models like Game Pass and PS Plus.
 
 ### Genre & Console Breakdown
 - Sports and Shooter genres dominate, especially on PS2, X360, and PS3.
 - PS2 leads in Sports (266.38M, 22.45%), while X360 leads in Shooter (231.35M, 23.24%).
 - Wii excels in Misc genre, likely due to family-friendly titles.
+- Game developers should choose console platforms based on genre of the game. Console manufactures can use genre strengths to shape exclusives and partnerships with game developer to develop better consoles.
 
 ### Regional Sales Patterns
 - North America dominates sales for most titles, especially Call of Duty and GTA franchises.
 - Japan consistently shows low sales, even for global hits like GTA V (only 1.66M).
 - EU & Africa rival North America in sales for top titles like GTA V (28.14M vs. 26.19M).
 - Rest of World contributes moderately, with GTA V again leading (8.32M).
-- North American, Europe and Africa contibute the majority of sales while Japan consistently shows low sales for Western titles. Therefore werstern publishers may deprioritse marketing efforts toward Japan unless the genre aligns with preference of RPG, Nintendo titles. 
-
+- North American, Europe and Africa contibute the majority of sales while Japan consistently shows low sales for Western titles. Therefore werstern publishers may deprioritse marketing efforts toward Japan unless the genre aligns with Japanese preference of RPG, Nintendo titles.
 
