@@ -28,14 +28,17 @@ The raw dataset used in this analysis is available from [Maven Analytics](https:
 | release_date | Date the game was released on |
 | last_update | Date the data was last update |
 
-I have utilised Power BI to clean and transforming dataset, after cleaning the dataset there were only 17,505 records that were deemed useable for the analyses. Additional to optimised the dataset for analytical purposes I have applied Kimball Star Schema referred to Figure 1 to see the current database structure. 
+I have utilised Power BI to clean and transforming dataset, after cleaning the dataset there were only 17,505 records that were deemed useable for the analyses. Additional to optimised the dataset for analytical purposes I have applied Kimball Star Schema referred to Figure 1 to see how the data is organised. 
 
 #### Figure 1: Model View
 ![model_view](assets/images/database_structure.png)
 
 ### Access to resources
-- Dashboard can be download [here]
-- Raw global video games sales dataset is available [here]
+- Power BI dashboard click [here](assets/game_sales.pbix).
+- Raw global video games sales dataset is available [here](https://mavenanalytics.io/data-playground/video-game-sales).
+
+#### Figure 2: Video Game Sales
+![overview](assets/images/overview_game_sales.png)
 
 ## Findings & Implications 
 ### Best-Selling Titles
