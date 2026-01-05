@@ -1,7 +1,7 @@
 # Video Game Sales
 
 ## Objective
-This project analyse global video game sales datas for 64,016 titles released between 1971 and 2024 across North America, Japan, the EU, Africa, and the rest of the world. The analysis aims is to uncover trends in worldwide and regional sales, identify top-selling titles and peak sales years to evaluate industry groweth,and explore dominant genre across gaming consoles. 
+This project analyses global video game sales data for 64,016 titles released between 1971 and 2024 across North America, Japan, the EU, Africa, and the rest of the world. The analysis aims to uncover trends in worldwide and regional sales, identify top‑selling titles and peak sales years to evaluate industry growth, and explore dominant genres across gaming consoles.
 
 ### Project Scope
 This project aims to answer these questions.
@@ -28,7 +28,7 @@ The raw dataset used in this analysis is available from [Maven Analytics](https:
 | release_date | Date the game was released on |
 | last_update | Date the data was last update |
 
-I have utilised Power BI to clean and transforming dataset, after cleaning the dataset there were only 17,505 records that were deemed useable for the analyses. Additional to optimised the dataset for analytical purposes I have applied Kimball Star Schema referred to Figure 1 to see how the data is organised. 
+I utilised Power BI to clean and transform the dataset. After the cleaning process, 17,505 records remained and were deemed suitable for analysis. To further optimise the dataset for analytical purposes, I applied a Kimball Star Schema (refer to Figure 1) to illustrate how the data is structured and organised.
 
 #### Figure 1: Model View
 ![model_view](assets/images/database_structure.png)
